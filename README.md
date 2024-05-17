@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Keshav-Raj-098
 - I am student @ IIT-Delhi.
-- 👀 I’m interested in web development and app development 
-- 🌱 I’m currently learning Html
+- 👀 I’m interested in web development .
+- 🌱 I’m currently learning React JS.
+- I Know Htms,css and Js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at my Email I'D:-keshavraj09898@gmail.com
   
