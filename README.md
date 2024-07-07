@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Keshav Raj
-- I am student @ IIT-Delhi.
+-  Student @ IIT-Delhi.
 - 👀 I’m interested in web development .
 - 🌱 I’m currently learning Backend.
 - I Know Htms,css,Js & react-Js.
