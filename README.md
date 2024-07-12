@@ -2,7 +2,7 @@
 -  Student @ IIT-Delhi.
 - 👀 I’m interested in web development .
 - 🌱 I’m currently learning Backend.
-- I Know Htms,css,Js & react-Js.
+- I Know HTML,CSS,Js & React-Js.
 - 💞️ I’m looking to collaborate on real life projects.
 - 📫 Reach me at my Email I'D:-keshavraj09898@gmail.com
 - Checkout My website ->https://myintroo.netlify.app/
