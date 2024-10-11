@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Keshav Raj
 -  Student @ IIT-Delhi.
 - 👀 I’m interested in web development .
-- 🌱 I’m currently learning Backend.
-- I Know HTML,CSS,Js & React-Js.
+- 🌱 Full-stack developer at intermediate level.
+- I Know HTML,CSS,Js ,React-Js,Node js.
 - 💞️ I’m looking to collaborate on real life projects.
 - 📫 Reach me at my Email I'D:-keshavraj09898@gmail.com
 - Checkout My website ->https://myintroo.netlify.app/
