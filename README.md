@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python development.<br>👯 I’m looking to collaborate on Full-Stack web-application development.<br>🌱 I’m currently learning TypeORM and advanced backend integration techniques.<br>💬 Ask me about web development,.<br>⚡ Fun fact: I’ve turned coding errors into some of my most innovative features!
+🔭 I’m currently working on development with python.<br>👯 I’m looking to collaborate on Full-Stack web-application development.<br>🌱 I’m currently learning TypeORM and advanced backend integration techniques.<br>💬 Ask me about web development,.<br>⚡ Fun fact: I’ve turned coding errors into some of my most innovative features!
 
 
 ## 🌐 Socials:
